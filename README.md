@@ -1,4 +1,4 @@
-![Imagen decorativa de tu perfil](./Marta_Retrato.png)
+![Imagen decorativa de tu perfil]()
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy Marta</h1>
