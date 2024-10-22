@@ -2,9 +2,9 @@
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy Marta</h1>
-<h3 align="center">Soy diseñadora UX/UI y actualmente está empezando a gustarme el mundo del desarrollo web, ¿quién lo diriía?</h3>
+<h3 align="center">Soy diseñadora UX/UI y actualmente está empezando a gustarme el mundo del desarrollo web, ¿quién lo diría?</h3>
 
-- 🔭 ACTUALMENTE TRABAJO EN [NOMBRE DEL PROYECTO](URL-DEL-PROYECTO)
+- 🔭 ACTUALMENTE TRABAJO EN MI TRABAJO FINAL DE MÁSTER, UNA TIENDA DE HELADOS.(URL-DEL-PROYECTO)
 
 - 🌱 ESTOY ESTUDIANDO HTML5, CSS3 y JavaScript y no descarto adentrarme en más lenguajes.
 - 👨‍💻 TODOS MIS PROYECTOS ESTÁN [MIDOMINIO.COM](MIDOMINIO.COM)
